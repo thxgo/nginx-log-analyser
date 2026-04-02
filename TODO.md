@@ -2,6 +2,7 @@
 
 ## Melhorias 
 
+- [ ] Adicionar README.md no projeto
 - [ ] Testar outras ferramentas no script além do awk, como grep, sed, etc.
 
 ## Features 
